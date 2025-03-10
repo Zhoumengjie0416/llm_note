@@ -1,1 +1,9 @@
+数据集加载：
+先dataset，再传入DataLoader
+PyTorch入门必学：DataLoader（数据迭代器）参数解析与用法合集  https://blog.csdn.net/qq_41813454/article/details/134903615
+参考项目：https://github.com/jingyaogong/minimind中预训练数据集代码
+
+
+
+
 
