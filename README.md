@@ -20,3 +20,6 @@ ref model、reward model、critic model
 
 ![image](https://github.com/user-attachments/assets/78861185-50ca-4baa-8bc3-0205eb9c7f9d)
 
+
+
+rsync -avP folder1/ folder2/
