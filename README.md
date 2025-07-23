@@ -20,7 +20,7 @@ ref model、reward model、critic model
 
 ![image](https://github.com/user-attachments/assets/78861185-50ca-4baa-8bc3-0205eb9c7f9d)
 
-![Uploading image.png…]()
+<img width="1174" height="412" alt="89fad35736003f611df7688e712ccc28" src="https://github.com/user-attachments/assets/f513a2a1-c410-4a2e-a1f4-634ae7be692a" />
 
 
 rsync -avP folder1/ folder2/
