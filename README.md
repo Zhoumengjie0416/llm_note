@@ -5,7 +5,9 @@ BPE分词算法理解：https://zhuanlan.zhihu.com/p/424631681
 
 
 RLHF  DPO、PPO、GRPO、DAPO
+
 DPO相对于PPO优点：数据格式（一个问题两个回答，一个choice，应该reject）使得其是SFT简单易于训练，不需要reward和critic模型
+
 DPO相对于PPO缺点：容易过拟合
 <img width="1117" height="315" alt="image" src="https://github.com/user-attachments/assets/eeab8982-3af9-4304-8f99-b1819d85056f" />
 
