@@ -18,10 +18,12 @@ https://zhuanlan.zhihu.com/p/1910019667268986241
 <img width="941" height="3189" alt="image" src="https://github.com/user-attachments/assets/8f59a316-c338-408c-bd58-b9e29ceb4361" />
 
 
+
+
 ![image](https://github.com/user-attachments/assets/5f687d95-114f-4655-aceb-83946eabd451)
 <img width="1174" height="412" alt="89fad35736003f611df7688e712ccc28" src="https://github.com/user-attachments/assets/f513a2a1-c410-4a2e-a1f4-634ae7be692a" />
 
-
+<img width="1059" height="3798" alt="image" src="https://github.com/user-attachments/assets/2d97a9ac-c046-4fb5-8f7e-396a419160d0" />
 
 actor model
 
